@@ -1,0 +1,8 @@
+O que é Quality Assurance
+O conceito de Quality Assurance (QA), que pode ser traduzido como “Garantia de Qualidade”, faz referência a um profissional ou uma equipe cuja função é garantir a qualidade no desenvolvimento de um produto ou serviço. Grosso modo, sua atuação envolve a checagem do cumprimento de certos critérios e métodos ao longo dos processos operacionais.
+
+O objetivo da sua implantação é identificar desvios que possam comprometer a qualidade final do serviço. Ao mesmo tempo, o QA tem a capacidade de levantar oportunidades, seja uma melhoria direta no serviço, seja um aperfeiçoamento dos processos.
+
+Com isso, o Quality Assurance assume um importante papel de acompanhar e assegurar o cumprimento de etapas, assim como sua execução.
+
+
