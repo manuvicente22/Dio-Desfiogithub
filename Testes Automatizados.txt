@@ -1,4 +1,0 @@
-O que são testes automatizados?
-Testes automatizados são programas que executam testes em softwares que estão em construção de uma forma padronizada, sem ser necessário a intervenção humana. Pois, tais testes possuem funcionalidades capazes de testar de forma automática todos os aspectos de uma plataforma, com o intuito de assegurar um desempenho adequado. 
-
-Tal procedimento, gera muito mais eficácia e agilidade na etapa de testes, permitindo que o profissional encontre de uma maneira mais fácil as falhas de segurança, bugs e demais erros que possam comprometer o uso da aplicação.
